@@ -1,6 +1,6 @@
 # Google keeper clone app
 
-A clone of google notes app in React , frontend only.
+A clone of google notes app in React , frontend only
 
 clone project 
 
